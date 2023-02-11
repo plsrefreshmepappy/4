@@ -338,7 +338,10 @@ function App() {
             >
               Time until mint:
             </s.TextDescription> */}
-
+            <s.SpacerMedium />
+            <s.SpacerMedium />
+            <s.SpacerMedium />
+            <s.SpacerMedium />
 
             <s.TextDescription
               style={{
