@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD098E9Df93E6dF060bF180479E436ccfebe55d5c",
+  "SCAN_LINK": "https://etherscan.io/address/0xD098E9Df93E6dF060bF180479E436ccfebe55d5c",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Ordiwalls",
+  "SYMBOL": "ORDIWALLS",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 77700000000000000,
+  "DISPLAY_COST": 0.07770000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/ordiwalls",
+  "SHOW_BACKGROUND": true
+}
