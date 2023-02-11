@@ -342,6 +342,8 @@ function App() {
             <s.SpacerMedium />
             <s.SpacerMedium />
             <s.SpacerMedium />
+            <s.SpacerMedium />
+            <s.SpacerMedium />
 
             <s.TextDescription
               style={{
